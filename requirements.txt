@@ -1,0 +1,12 @@
+ipython-autotime
+pandas
+numpy
+binance-connector
+fastquant
+scikit-learn
+tensorflow
+matplotlib
+mlflow
+notebook
+jupyterlab
+boto3

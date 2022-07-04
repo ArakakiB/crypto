@@ -1,0 +1,2 @@
+containerizar na aws com o sistema mlflow
+acrescentar o airflow (ver antes se da pra subir no github e deployar com o jenkins)
